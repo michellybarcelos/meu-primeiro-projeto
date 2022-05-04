@@ -1,2 +1,2 @@
-# meu-primeiro-projeto
+# primeiro-projeto GIT/GITHUB
 desafio projeto sobre GIT/Github
