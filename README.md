@@ -2,4 +2,4 @@
 desafio projeto sobre GIT/Github
 
 ## Links uteis
-[Sintaxe.Basica.Marcdow](htps://www.markdownguide.org/basic-syntax/)
+[Sintaxe Basica Marcdow](htps://www.markdownguide.org/basic-syntax/)
